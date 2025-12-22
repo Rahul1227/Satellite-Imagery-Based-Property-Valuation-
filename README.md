@@ -161,6 +161,7 @@ Combine tabular features with image features
 
 - GitHub: https://github.com/Rahul1227/Satellite-Imagery-Based-Property-Valuation-
 - Google Drive: https://drive.google.com/drive/folders/12GUf_nsgH48JqLL1jAE_isvsbgX4zRox?usp=sharing
+- Final Predictions (CSV): https://drive.google.com/file/d/1bADDdaTRGVB9JvsNCpr64L4HHVdwoVf8/view?usp=sharing
 
 ## Contact
 
